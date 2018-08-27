@@ -1,3 +1,4 @@
 $ git body yes commit hello
 $ git pig commit
 $ git add one
+$ git add two
