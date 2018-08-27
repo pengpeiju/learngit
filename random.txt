@@ -1,2 +1,2 @@
-$ git body yes commit
+$ git body yes commit hello
 $ git pig
