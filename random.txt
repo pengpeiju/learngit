@@ -3,4 +3,4 @@ $ git pig commit
 $ git add one
 $ git add two
 $ git add say boss
-$ git add bug ssf
+$ git add bug ssfs
