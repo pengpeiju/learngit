@@ -3,3 +3,4 @@ $ add cook
 $ add prach wo
 $ add come to sadsds
 $ add yes yes
+$ add go go
